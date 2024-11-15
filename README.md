@@ -22,10 +22,7 @@ Los componentes están diseñados para ser modulares y reutilizables, lo que fac
 
 ## 🌐 Despliegue
 
-Puedes ver la aplicación en línea en el siguiente enlace:
+Puedes ver la aplicación en línea en el siguiente enlace a Vercel:
 
 <a href="https://tp-react-gkejnyrv7-octaviores-projects.vercel.app" target="_blank">Gestor de Productos - Vercel</a>
 
----
-
-<p>¡Gracias por revisar este proyecto! Espero que encuentres útil este ejemplo de implementación con React y TypeScript. No dudes en hacer preguntas o sugerencias en los issues del repositorio.</p>
